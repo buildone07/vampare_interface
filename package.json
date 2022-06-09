@@ -1,8 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "repository": "https://github.com/buildone07/vampire_interface.git",
-  "homepage": "https://buildone07.github.io/vampire_interface",
+  "homepage": "https://buildone07.github.io/vampare_interface",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
